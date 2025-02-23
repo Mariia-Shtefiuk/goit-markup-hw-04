@@ -341,12 +341,12 @@ height: 112px;
   padding: 100px 0;
 }
 
-.footer-content-list {
+.footer-content {
   display: flex;
   gap: 120px;
 }
 
-.footer-cont {
+.footer-text-box {
   width: 264px;
 }
 
@@ -369,6 +369,10 @@ height: 112px;
   line-height: 1.5;
   letter-spacing: 0.02em;
   color: #f4f4fd;
+}
+
+.footer-social {
+  width: 208px;
 }
 
 .footer-social-text {
