@@ -275,12 +275,9 @@ img {
 
 .staff-info-list {
   text-align: center;
-  padding: 32px 16px;
+  padding: 32px 0;
 }
 
-.staff-info-item {
-  margin-bottom: 8px;
-}
 
 .staff-name {
   font-weight: 500;
@@ -289,6 +286,7 @@ img {
   letter-spacing: 0.02em;
   text-align: center;
   color: #2e2f42;
+  margin-bottom: 8px;
 }
 
 .staff-text {
@@ -297,6 +295,7 @@ img {
   line-height: 1.5;
   letter-spacing: 0.02em;
   text-align: center;
+  margin-bottom: 8px;
 }
 
 .team-social-list {
